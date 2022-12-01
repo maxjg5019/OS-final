@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRYpuDl9VLW5+37lNa/O92j7e35mhuRU/AXBOBjEhKZZyiYAGms6YfuZgejphmQVEMg3A2gHF2VtJ/4lzxSipg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MMSLAB\\Desktop\\OS\\final\\OS-fin\\OS-fin\\OS-fin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MMSLAB\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
