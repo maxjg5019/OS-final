@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MMSLAB\\Desktop\\OS\\final\\OS-fin\\OS-fin\\OS-fin.csproj": {}
+    "C:\\Users\\MMSLAB\\Desktop\\OS\\OS-final\\OS-fin\\OS-fin\\OS-fin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MMSLAB\\Desktop\\OS\\final\\OS-fin\\OS-fin\\OS-fin.csproj": {
+    "C:\\Users\\MMSLAB\\Desktop\\OS\\OS-final\\OS-fin\\OS-fin\\OS-fin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MMSLAB\\Desktop\\OS\\final\\OS-fin\\OS-fin\\OS-fin.csproj",
+        "projectUniqueName": "C:\\Users\\MMSLAB\\Desktop\\OS\\OS-final\\OS-fin\\OS-fin\\OS-fin.csproj",
         "projectName": "OS-fin",
-        "projectPath": "C:\\Users\\MMSLAB\\Desktop\\OS\\final\\OS-fin\\OS-fin\\OS-fin.csproj",
+        "projectPath": "C:\\Users\\MMSLAB\\Desktop\\OS\\OS-final\\OS-fin\\OS-fin\\OS-fin.csproj",
         "packagesPath": "C:\\Users\\MMSLAB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MMSLAB\\Desktop\\OS\\final\\OS-fin\\OS-fin\\obj\\",
+        "outputPath": "C:\\Users\\MMSLAB\\Desktop\\OS\\OS-final\\OS-fin\\OS-fin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MMSLAB\\AppData\\Roaming\\NuGet\\NuGet.Config",
